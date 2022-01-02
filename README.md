@@ -1,4 +1,3 @@
-**Contexte :** DUT Informatique de Lens - Projet de 1ere année.
-Premier site web, refonte du site web national du DUT Informatique. 
+**Consigne** 
+Refonte compléte du Portail Iut Informatique dans le cadre du 1er projet tutoré, par groupe de 3 personnes
 
-**Membres du groupe :** Baptiste Gosselet, Rayanne Bensaid, Ryan Kadri
